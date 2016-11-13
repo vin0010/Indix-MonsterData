@@ -34,5 +34,14 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
 	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/mysql-database-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/commons-csv.jar/commons-csv.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/opencsv-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/rocksdbjni-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/lettuce-4.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/jedis-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/chronicle-map-1.0.3-20140821.081311-2.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/jackson-core-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/jackson-mapper-asl-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gopuv/Mine/Hackathon/Indix_Data_Monster/jackson-all-1.9.0 3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

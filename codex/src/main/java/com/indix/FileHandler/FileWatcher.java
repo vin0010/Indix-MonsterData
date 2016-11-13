@@ -1,4 +1,4 @@
-package com.indix.FileMonitor;
+package com.indix.FileHandler;
 
 import static java.nio.file.LinkOption.NOFOLLOW_LINKS;
 import static java.nio.file.StandardWatchEventKinds.ENTRY_CREATE;
@@ -43,7 +43,9 @@ public class FileWatcher {
 					} else if (ENTRY_CREATE == k) {
 						Path newfile = ((WatchEvent<Path>) watchEvent).context();
 						System.out.println("New file created: " + newfile);
-						//initiate process
+						//Event getting initiated to process CSV file chunk by chunk 
+						//OpenCSVParserExample csvParserExample = new OpenCSVParserExample();
+						//csvParserExample.
 					}
 				}
 

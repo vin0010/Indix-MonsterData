@@ -5,4 +5,4 @@
  * @author gopuv
  *
  */
-package com.indix.FileMonitor;
+package com.indix.Model;
